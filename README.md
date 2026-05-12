@@ -1,8 +1,8 @@
-# Python Practice Projects 🚀
+# Python Practice Projects 
 
 A collection of beginner-friendly Python scripts covering basic logic, math, and data structures.
 
-## 📂 Project Overview
+##  Project Overview
 
 
 | Project Name | Description |
@@ -17,7 +17,7 @@ A collection of beginner-friendly Python scripts covering basic logic, math, and
 | **Temperature Converter** | Switches between Celsius and Fahrenheit. |
 | **Weight Converter** | Converts weight between Kilograms and Pounds. |
 
-## 🛠️ How to Use
+##  How to Use
 1. Clone this repository:
    ```bash
    git clone https://github.com
@@ -31,7 +31,7 @@ A collection of beginner-friendly Python scripts covering basic logic, math, and
    python script_name.py
    ```
 
-## 📝 Learning Goals
+##  Learning Goals
 * Mastering basic Python syntax.
 * Understanding user input and data type conversion.
 * Working with loops, conditionals, and collections.
